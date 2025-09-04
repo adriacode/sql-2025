@@ -17,36 +17,46 @@ O curso aborda os principais conceitos e práticas de SQL, incluindo:
    - Modelagem de dados ✅
    - Tabelas, linhas e colunas ✅
 
-2. **Consultas Básicas**
-   - `SELECT`✅
-   - `WHERE`✅
-   - `ORDER BY`
-   - `LIMIT`
+2. **Primeiras Consultas (DQL)**
+   - `SELECT` ✅
+   - `FROM` ✅
+   - `WHERE` ✅
+   - `CASE WHEN`
 
-3. **Funções e Operadores**
-   - Funções agregadas (`COUNT`, `SUM`, `AVG`, `MIN`, `MAX`)
-   - Operadores lógicos e matemáticos
+3. **Agregações**
+   - Funções de agregação (`COUNT`, `SUM`, `AVG`, `MIN`, `MAX`)
+   - `GROUP BY`
+   - `ORDER BY` ✅
+   - `HAVING`
 
-4. **Joins e Relacionamentos**
-   - `INNER JOIN`
-   - `LEFT JOIN`
-   - `RIGHT JOIN`
-   - `FULL JOIN`
+4. **JOINs**
+   - `LEFT`
+   - `RIGHT`
+   - `INNER`
 
-5. **Subqueries e Views**
-   - Subconsultas
-   - Criação e utilização de views
+5. **Juntando dados com UNIONs**
 
-6. **Manipulação de Dados**
+6. **Subqueries**
+   - `CTE`
+
+7. **Window Functions**
+   - `OVER`
+   - `PARTITION BY`
+   - `LAG`
+   - `LEAD`
+   - `ROW_NUMBER`
+
+8. **DDL (Data Definition Language)**
+   - `CREATE`
+   - `DROP`
+   - `TRUNCATE`
+
+9. **DML (Data Manipulation Language)**
    - `INSERT`
-   - `UPDATE`
    - `DELETE`
+   - `UPDATE`
 
-7. **Tópicos Avançados**
-   - Índices
-   - Stored procedures
-   - Triggers
-   - Normalização e boas práticas
+---
 
 ## Estrutura do Repositório
 
