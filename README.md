@@ -24,8 +24,8 @@ O curso aborda os principais conceitos e práticas de SQL, incluindo:
    - `CASE WHEN` ✅
 
 3. **Agregações**
-   - Funções de agregação (`COUNT`, `SUM`, `AVG`, `MIN`, `MAX`)
-   - `GROUP BY`
+   - Funções de agregação (`COUNT`, `SUM`, `AVG`, `MIN`, `MAX`) ✅
+   - `GROUP BY` ✅
    - `ORDER BY` ✅
    - `HAVING`
 
