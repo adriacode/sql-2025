@@ -21,7 +21,7 @@ O curso aborda os principais conceitos e práticas de SQL, incluindo:
    - `SELECT` ✅
    - `FROM` ✅
    - `WHERE` ✅
-   - `CASE WHEN`
+   - `CASE WHEN` ✅
 
 3. **Agregações**
    - Funções de agregação (`COUNT`, `SUM`, `AVG`, `MIN`, `MAX`)
@@ -57,6 +57,3 @@ O curso aborda os principais conceitos e práticas de SQL, incluindo:
    - `UPDATE`
 
 ---
-
-## Estrutura do Repositório
-
