@@ -14,7 +14,10 @@ FROM transacoes
 WHERE DtCriacao >= '2025-07-01'
 AND DtCriacao < '2025-08-01'
 
+
 GROUP BY (IdCliente)
+HAVING SUM(QtdePontos)
+
 ORDER BY SUM(QtdePontos)DESC
 
 LIMIT 10
